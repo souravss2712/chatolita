@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341546655847",
+    "firebase_url": "https://chatolita-c3efd.firebaseio.com",
+    "project_id": "chatolita-c3efd",
+    "storage_bucket": "chatolita-c3efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341546655847:android:7ad5089eef0e993cc0b4c2",
+        "android_client_info": {
+          "package_name": "com.example.chatolita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341546655847-iklub4or086919feuumf6ccrqlhnqf5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatolita",
+            "certificate_hash": "f29de5fef0c4c7f05ae50425aed324c7b14a4eb8"
+          }
+        },
+        {
+          "client_id": "341546655847-3inbjd26copupoutla17al4u6th0gso2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIxGYDZuGjjopmYmlBzDNHzL-tGgon-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341546655847-3inbjd26copupoutla17al4u6th0gso2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
